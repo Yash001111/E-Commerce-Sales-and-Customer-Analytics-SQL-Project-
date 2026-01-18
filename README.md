@@ -68,4 +68,3 @@ This project includes more than 30 intermediate to advanced SQL queries.
 
 ---
 
-## Repository Structure
